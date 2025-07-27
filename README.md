@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Next.js Advanced Portfolio
 
 ## Run Locally
@@ -15,3 +16,6 @@ Visit http://localhost:3000
 ## Features
 - Dark/Light mode toggle
 - Smooth animations with Framer Motion
+=======
+# portfolio
+>>>>>>> 544857b1dda5722cd7ff64e0ef495213fca5c300
